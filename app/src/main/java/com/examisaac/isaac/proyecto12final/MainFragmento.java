@@ -165,4 +165,4 @@ public class MainFragmento extends Fragment {
         callbackManager.onActivityResult(requestCode, resultCode, data);
     }
 
-}
+}//fin de la clase
